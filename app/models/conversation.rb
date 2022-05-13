@@ -1,2 +1,4 @@
 class Conversation < ApplicationRecord
+
+    
 end
